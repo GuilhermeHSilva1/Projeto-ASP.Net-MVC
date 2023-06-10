@@ -39,3 +39,4 @@ C:\Users\Guilh\OneDrive\Documentos\Projeto-ASP.Net-MVC\ProjetoASPNet\ProjetoASPN
 C:\Users\Guilh\OneDrive\Documentos\Projeto-ASP.Net-MVC\ProjetoASPNet\ProjetoASPNet\obj\Debug\netcoreapp3.1\ProjetoASPNet.pdb
 C:\Users\Guilh\OneDrive\Documentos\Projeto-ASP.Net-MVC\ProjetoASPNet\ProjetoASPNet\obj\Debug\netcoreapp3.1\ProjetoASPNet.genruntimeconfig.cache
 C:\Users\Guilh\OneDrive\Documentos\Projeto-ASP.Net-MVC\ProjetoASPNet\ProjetoASPNet\obj\Debug\netcoreapp3.1\ProjetoASPNet.csproj.CopyComplete
+C:\Users\Guilh\OneDrive\Documentos\Projeto-ASP.Net-MVC\ProjetoASPNet\ProjetoASPNet\obj\Debug\netcoreapp3.1\ProjetoASPNet.csproj.AssemblyReference.cache
